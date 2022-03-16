@@ -1,0 +1,19 @@
+\babel@toc {brazil}{}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{5}% 
+\contentsline {subsection}{\numberline {1.1}Benef\IeC {\'\i }cios}{5}% 
+\contentsline {subsection}{\numberline {1.2}Organiza\IeC {\c c}\IeC {\~o}es Envolvidas}{5}% 
+\contentsline {section}{\numberline {2}Estado atual}{5}% 
+\contentsline {section}{\numberline {3}Requisitos}{5}% 
+\contentsline {section}{\numberline {4}Usu\IeC {\'a}rios e Aplicativos}{5}% 
+\contentsline {subsection}{\numberline {4.1}Usu\IeC {\'a}rios}{6}% 
+\contentsline {subsection}{\numberline {4.2}Aplicativos}{6}% 
+\contentsline {section}{\numberline {5}Estrutura predial existente}{6}% 
+\contentsline {section}{\numberline {6}Planta L\IeC {\'o}gica - Elementos estruturados}{10}% 
+\contentsline {subsection}{\numberline {6.1}Estado atual}{10}% 
+\contentsline {subsection}{\numberline {6.2}Topologia}{14}% 
+\contentsline {subsection}{\numberline {6.3}Encaminhamento}{18}% 
+\contentsline {subsection}{\numberline {6.4}Memorial descritivo}{18}% 
+\contentsline {subsection}{\numberline {6.5}Custos dos passivos de rede}{19}% 
+\contentsline {subsection}{\numberline {6.6}Identifica\IeC {\c c}\IeC {\~a}o dos cabos}{21}% 
+\contentsline {section}{\numberline {7}Implanta\IeC {\c c}\IeC {\~a}o}{21}% 
+\contentsline {section}{\numberline {8}Plano de certifica\IeC {\c c}\IeC {\~a}o}{21}% 
